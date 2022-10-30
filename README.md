@@ -14,3 +14,7 @@
 Проект должен запускаться командой npm i && npm run start
 
 Опционально: проект доступен на GitHub Pages/Vercel/etc.
+
+#
+
+Pages: https://buldig.github.io/mindbox-test-task/
