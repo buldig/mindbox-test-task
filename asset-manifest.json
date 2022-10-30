@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindbox-test-task/static/css/main.0aedbaa5.css",
+    "main.js": "/mindbox-test-task/static/js/main.8f3524c6.js",
+    "static/media/circle.svg": "/mindbox-test-task/static/media/circle.8414b700755b9e613288ec772a861b31.svg",
+    "index.html": "/mindbox-test-task/index.html",
+    "static/media/checked.svg": "/mindbox-test-task/static/media/checked.82f1f7f875ed1612b2c6190032332be4.svg",
+    "main.0aedbaa5.css.map": "/mindbox-test-task/static/css/main.0aedbaa5.css.map",
+    "main.8f3524c6.js.map": "/mindbox-test-task/static/js/main.8f3524c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aedbaa5.css",
+    "static/js/main.8f3524c6.js"
+  ]
+}
