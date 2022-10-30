@@ -1,0 +1,19 @@
+.todo-item {
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 20px 0 20px 50px;
+    background-color: rgb(249, 249, 249);
+    border-bottom: 1px solid rgb(172, 172, 172);
+
+    &__icon {
+        position: absolute;
+        left: 10px;
+    }
+
+    &__text.completed {
+        text-decoration: line-through;
+        color: rgb(113, 113, 113);
+    }
+}
